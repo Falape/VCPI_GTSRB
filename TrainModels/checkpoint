@@ -1,2 +1,2 @@
-model_checkpoint_path: "static_Augmentation.ckpt"
-all_model_checkpoint_paths: "static_Augmentation.ckpt"
+model_checkpoint_path: "Dynamic_Augmentation.ckpt"
+all_model_checkpoint_paths: "Dynamic_Augmentation.ckpt"
